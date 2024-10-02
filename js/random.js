@@ -12,7 +12,3 @@ function generateNumber() {
     let rand = randNum(min,max);
     document.getElementById("randomNumberOutput").innerHTML = rand;
 }
-
-button.addEventListener("click", function (e) {
-    generateNumber()
-});
