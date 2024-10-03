@@ -1,2 +1,27 @@
-# RandomNumberGenerator
-This is only to be used for CHeck It Corp. resources, only for resources.
+# Random Number Generator
+Welcome to Random Number Generator created by Jacob McHan
+
+### How to use
+To use the Random Number Generator go to [this website] (jacomchan.github.io/RandomNumberGenerator)
+
+### How to add to your website
+Copy Code Here:
+
+Links:
+<sub>
+ <script src="jacomchan.github.io/RandomNumberGenerator/js/random.js"></script>
+ <link rel="stylesheet" href="jacomchan.github.io/RandomNumberGenerator/css/main.css">
+</sub>
+
+HTML Code:
+<sub>
+<div class="NumberBox">
+    <input type="number" id="minNumber" placeholder="Min Number">
+    <input type="number" id="maxNumber" placeholder="Max Number">
+    <p id="randomNumberOutput"></p>
+    <button id="randomNumberButton" onclick="generateNumber()" class="button">Generate</button>
+</div>
+</sub>
+
+### Thanks
+Thanks for using this free random number generater! Hope you have fun.
