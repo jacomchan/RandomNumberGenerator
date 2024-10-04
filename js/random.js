@@ -10,5 +10,5 @@ function generateNumber() {
     let min = document.getElementById('minNumber').value;
     let max = document.getElementById('maxNumber').value;
     let rand = randNum(min,max);
-    document.getElementById("randomNumberOutput").innerHTML = rand;
+    document.getElementById("randomNumberOutput").innerHTML = `${rand}-${rand}-${rand}`;
 }
