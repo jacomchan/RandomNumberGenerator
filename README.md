@@ -8,20 +8,16 @@ To use the Random Number Generator go to [this website] (jacomchan.github.io/Ran
 Copy Code Here:
 
 Links:
-<sub>
- <script src="jacomchan.github.io/RandomNumberGenerator/js/random.js"></script>
- <link rel="stylesheet" href="jacomchan.github.io/RandomNumberGenerator/css/main.css">
-</sub>
+`<script src="jacomchan.github.io/RandomNumberGenerator/js/random.js"></script>
+<link rel="stylesheet" href="jacomchan.github.io/RandomNumberGenerator/css/main.css">`
 
 HTML Code:
-<sub>
-<div class="NumberBox">
+`<div class="NumberBox">
     <input type="number" id="minNumber" placeholder="Min Number">
     <input type="number" id="maxNumber" placeholder="Max Number">
     <p id="randomNumberOutput"></p>
     <button id="randomNumberButton" onclick="generateNumber()" class="button">Generate</button>
-</div>
-</sub>
+</div>`
 
 ### Thanks
 Thanks for using this free random number generater! Hope you have fun.
