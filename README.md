@@ -2,7 +2,7 @@
 Welcome to Random Number Generator created by Jacob McHan
 
 ### How to use
-To use the Random Number Generator go to [this website] (jacomchan.github.io/RandomNumberGenerator)
+To use the Random Number Generator go to [this website] (https://jacomchan.github.io/RandomNumberGenerator)
 
 ### How to add to your website
 Copy Code Here:
